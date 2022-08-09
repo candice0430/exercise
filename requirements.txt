@@ -1,0 +1,2 @@
+PyMySql-1.0.2
+Pillow-9.1.1

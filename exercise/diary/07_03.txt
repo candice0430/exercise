@@ -1,0 +1,8 @@
+This section of the devguide documents the issue tracker for users and developers.
+
+Contributors with the Triager role on the issue tracker can triage issues directly without any assistance.
+
+Additionally, this section provides an overview of the Python triage team.
+
+Python triage team
+The Python triage team is a group dedicated towards improving workflow efficiency through thoughtful review and triage of open issues and pull requests. This helps contributors receive timely feedback and enables core developers to focus on reviewed items which reduces their workload. The expectations of this role expand upon the “Triager” role on the issue tracker. The responsibilities listed below are primarily centered around the Python GitHub repositories. This extends beyond CPython, and, as needed, to other repos such as devguide and core-workflow.
